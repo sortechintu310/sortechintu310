@@ -6,7 +6,7 @@
 - 💻 Passionate about **Full-Stack Development** and exploring new technologies.
 - 📍 From Nagpur, India.
 - ✍️ I enjoy sketching, creating digital art, and working on creative projects in my free time.
-- 📚 Always learning something new, currently focused on **ReactJS** and **Appwrite**.
+- 📚 Always learning something new, currently focused on **React.JS** and **Next.js**.
 
 ---
 
