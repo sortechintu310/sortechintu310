@@ -36,8 +36,6 @@
 ## Hobbies & Interests
 
 - 🎨 Sketching and digital art
-- 🎥 Filmmaking and video editing
-- 📖 Reading and practicing Japanese (Hiragana ✅)
 - 🧘‍♂️ Yoga and meditation
 
 ---
