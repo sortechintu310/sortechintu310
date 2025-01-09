@@ -42,9 +42,8 @@
 
 ## Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/chintu-sorte)
-- 📧 Email: sorte.chintu310@example.com
-- 🐦 Twitter: [@ChintuSorte](https://twitter.com/ChintuSorte)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sortechintu/)
+- 📧 Email: chintusorte0@gmail.com
 
 ---
 
