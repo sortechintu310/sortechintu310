@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🎓 Master's Student in Computer Applications (MCA) at Dr. Babasaheb Ambedkar Technological University, Lonere.
-- 💻 Passionate about **Full-Stack Development** and exploring new technologies.
+- 🎓 Master's Student in Computer Applications (MCA) at JD College of Engineering & Management.
+- 💻 Passionate about **Full-Stack Web Development** and exploring new technologies.
 - 📍 From Nagpur, India.
 - ✍️ I enjoy sketching, creating digital art, and working on creative projects in my free time.
 - 📚 Always learning something new, currently focused on **React.JS** and **Next.js**.
