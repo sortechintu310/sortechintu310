@@ -13,7 +13,9 @@
 ## My Projects
 
 ### 🌟 Featured Projects
-
+- **Heritage Of India** ([GitHub Repo](https://github.com/sortechintu310/Heritage-Of-India))
+  - A React, Node & PostgreSQL-based app for representing heritage of india.' activities and locations.
+    
 - **Family Tracker** ([GitHub Repo](https://github.com/sortechintu310/familytracker))
   - A React-based app for tracking family members' activities and locations.
 
@@ -24,11 +26,11 @@
 
 ## Skills
 
-- **Languages:** JavaScript, Java, C++, SQL
+- **Languages:** JavaScript, C++, SQL
 - **Frontend:** ReactJS, HTML, CSS
 - **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL
-- **Tools & Platforms:** Git, Langflow
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Langflow, Postman
 - **Others:** Digital art (Photoshop, CorelDRAW)
 
 ---
@@ -36,7 +38,6 @@
 ## Hobbies & Interests
 
 - 🎨 Sketching and digital art
-- 🧘‍♂️ Yoga and meditation
 
 ---
 
@@ -45,10 +46,3 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sortechintu/)
 - 📧 Email: chintusorte0@gmail.com
 
----
-
-⭐️ **Fun Fact:** I started my journey with C++ but fell in love with web development while learning ReactJS!
-
----
-
-If you find my projects interesting or want to collaborate, feel free to reach out! 😊
